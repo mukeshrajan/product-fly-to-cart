@@ -138,3 +138,8 @@ button:last-child:hover{
   color: #fff;
   background: #ff7979;
 }
+.description{
+  position: absolute;
+  margin-top: 480px;
+  font-weight: 500;
+}
